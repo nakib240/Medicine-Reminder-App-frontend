@@ -1,0 +1,43 @@
+{
+  "name": "medicine-reminder-frontend",
+  "version": "1.0.0",
+  "description": "A frontend user interface for a medicine reminder application with signup and login features.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "react",
+    "medicine",
+    "reminder",
+    "signup",
+    "login"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^5.3.0"
+  },
+  "devDependencies": {
+    "react-scripts": "4.0.3"
+  },
+  "homepage": "http://yourhomepage.com",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
